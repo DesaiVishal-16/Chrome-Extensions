@@ -1,0 +1,22 @@
+body {
+    width:200px;
+    text-align:center;
+    color:#ffffff;
+    background: linear-gradient(to bottom, #b92b27, #1565C0);
+  }
+ 
+#saveButton{
+    border:5px double blue;
+    border-radius:5px;
+    background-color:#ffffff;
+    color:blue;
+    font-size:18px;
+    font-weight:bold;
+    position:relative;
+    bottom:3px;
+    cursor:pointer;
+}
+
+#lists{
+ margin-left:20px;
+}
