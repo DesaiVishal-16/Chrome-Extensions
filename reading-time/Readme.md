@@ -1,8 +1,8 @@
 # Extension
-![Extension-Img](./extension.png)
+![Extension-Img](./icons/extension.png)
 
 # Before Using Extension
-![Before-using-Extension](./before-usingExtension.png)
+![Before-using-Extension](./icons/before-usingExtension.png)
 
 # After Using Extension
-![After-using-Extension](./after-usingExtension.png)
+![After-using-Extension](./icons/after-usingExtension.png)

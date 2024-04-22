@@ -1,10 +1,10 @@
 # Extension
-![Extension-Img](./extension.png)
+![Extension-Img](./images/extension.png)
 
 # Before Using Extension 
 ## Navbar
-![Before-using-Extension](./before-header.png)
+![Before-using-Extension](./images/before-header.png)
 
 # After Using Extension
 ## Navbar
-![After-using-Extension](./after-header.png)
+![After-using-Extension](./images/after-header.png)
