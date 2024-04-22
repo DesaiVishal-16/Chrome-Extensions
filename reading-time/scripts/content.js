@@ -15,11 +15,13 @@ if (article) {
   badge.textContent = `⏱️${readingTime} min read`;
   badge.style.border="none"
   badge.style.color="#ffffff"
-  badge.style.borderRadius="20px"
-  badge.style.marginLeft="5px"
-  badge.style.width="140px"
-  badge.style.height='30px'
-  badge.style.textIndent="5px"
+  const textWidth = badge.textContent.length * 10;
+  badge.style.width = `${textWidth}px`;
+  badge.style.padding = "5px 10px";
+  badge.style.borderRadius = "20px";
+  badge.style.fontSize = "14px"; 
+  badge.style.display = "flex";
+  badge.style.alignItems = "center"
   badge.style.background="linear-gradient(to right, #b92b27, #1565C0)"
 
   
